@@ -35,8 +35,7 @@
 </div>
 
  <hr/>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center" >
@@ -65,7 +64,8 @@
 
 
 </div>
-
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Puujeeeeeee&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 <br/><br/>
 
 <hr/>
