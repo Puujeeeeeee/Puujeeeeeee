@@ -59,7 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-https://gh-readme-profile.vercel.app/api?username=Puujeeeeeee)](https://github.com/Puujeeeeeee/github-readme-profile
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Puujeeeeeee)](https://github.com/Puujeeeeeee/github-readme-profile)
   <br/>
 
 
