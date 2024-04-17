@@ -17,7 +17,7 @@
 
 💬 Ask me about **Reacr.js, Next.js, JavaScript... or anything [here](https://github.com/Puujeeeeeee/Puujeeeeeee/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
 
  </div>
  
