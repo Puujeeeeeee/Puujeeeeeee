@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">
     
-**` (FullStack Developer/K2 Developer/Human)`**
+**` (FrontEndDeveloper/K2 Developer/Human)`**
 </h3>
 <h3 align="center">A passionate software developer from Mongolia 🇲🇳  </h3>
 <br/>
